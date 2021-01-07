@@ -3,4 +3,16 @@ input{
 }
 h2{
     text-align: center;
+    font-family: fantasy;
+}
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px; 
+}
+.background {
+    height: 100%;
+    background-image: url(https://www.wallpapertip.com/wmimgs/46-461026_resolution-laptop-wallpaper-hd-wallpapers-full-hd-full.jpg);
+    background-size: contain;
+    color: #000; text-shadow: 1px 1px 0 #fff;
 }
